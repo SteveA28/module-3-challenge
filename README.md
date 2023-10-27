@@ -1,4 +1,6 @@
-# <module-3-challenge>
+<h1>Random-Password-Generator</h1>
+
+<img src="generate password screenshot.png">
 
 ## Description
 
