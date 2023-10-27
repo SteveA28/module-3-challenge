@@ -12,7 +12,7 @@ I used visual studio code to create this code in a script.js file.
 
 Link to the deployed application: 
 
-Put link here
+https://stevea28.github.io/module-3-challenge/
 
 ## Credits
 
